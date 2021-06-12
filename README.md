@@ -15,7 +15,6 @@ In OpenCV, a video can be read either by using the feed from a camera connected 
 
 In most cases, only one camera is connected to the system. So, all we do is pass ‘0’ and OpenCV uses the only camera attached to the computer. When more than one camera is connected to the computer, we can select the second camera by passing ‘1’, the third camera by passing ‘2’ and so on.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.studytonight.com%2Fpost%2Fcapture-videos-and-images-with-python-part2&psig=AOvVaw0Yrb8lsXRixztjsThU2I6e&ust=1623590680934000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJihhuaYkvECFQAAAAAdAAAAABAD)
 
 Installation of OpenCV .
 Note: Since we are going to use OpenCV in the Python language, it is an implicit requirement that you already have Python (version 3) installed on your workstation. Depending upon your OS, execute one of the following commands to install OpenCV library on your system:
